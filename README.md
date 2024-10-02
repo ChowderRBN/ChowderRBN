@@ -1,13 +1,13 @@
 Hello! 👋 I'm Koby Watford, a novice developer working hard to improve my skills!
 
 Hobbies:
-Working Out
-Reading
-Playing Games
-Talking with freinds
+Working Out,
+Reading,
+Playing Games,
+Talking with freinds.
 A project's I'm working on:
 
-PSX style horror game
+PSX style horror game,
 Infinite Corridor Horror Game
 Fun Fact:
 
