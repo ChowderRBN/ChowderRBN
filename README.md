@@ -1,5 +1,6 @@
-Hello! 👋 I'm Koby Watford, a novice developer working hard to improve my skills! Hobbies:
+Hello! 👋 I'm Koby Watford, a novice developer working hard to improve my skills!
 
+Hobbies:
 Working Out
 Reading
 Playing Games
