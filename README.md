@@ -7,8 +7,8 @@ Playing Games,
 Talking with freinds.
 A project's I'm working on:
 
-PSX style horror game,
-Infinite Corridor Horror Game
+Power Pong
+Jarvis AI
 Fun Fact:
 
 My username is Chowder (The one from Monster House) because I looked like him growing up.
