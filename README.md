@@ -7,7 +7,7 @@ Playing Games,
 Talking with freinds.
 A project's I'm working on:
 
-Power Pong
+WHEN SEEN
 
 Jarvis AI
 
