@@ -5,7 +5,7 @@ Working Out,
 Reading,
 Playing Games,
 Talking with freinds.
-A project's I'm working on:
+A few project's I'm working on:
 
 WHEN SEEN
 
